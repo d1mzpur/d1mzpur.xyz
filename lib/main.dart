@@ -38,8 +38,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Container(
-                    width: 180,
-                    height: 180,
+                    width: 230,
+                    height: 230,
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(100.0),
                       image: const DecorationImage(
